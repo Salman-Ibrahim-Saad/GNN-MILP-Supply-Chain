@@ -5,7 +5,7 @@ The project explores demand forecasting, network optimization, and end-to-end de
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 scg_project/
 │
 ├── GNN_MILP.ipynb # Main Jupyter notebook (GNN + MILP integration)
@@ -22,7 +22,7 @@ scg_project/
 
 ---
 
-## ⚡ Objectives
+## Objectives
 - Apply **Graph Neural Networks (GNNs)** for demand forecasting and graph representation of the supply chain.  
 - Develop **MILP models** for production, distribution, and routing optimization.  
 - Integrate GNN forecasts into MILP formulations for **data-driven decision-making**.  
@@ -30,7 +30,7 @@ scg_project/
 
 ---
 
-## 🔧 Installation
+## Installation
 
 1. Clone this repository:
    ```bash
