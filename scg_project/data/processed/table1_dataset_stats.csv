@@ -1,0 +1,11 @@
+Metric,Value
+Total weeks,16
+Date range,2023-04-18 to 2023-08-01
+Product subgroups,19
+Product groups,5
+Plants,25
+Storage locations,14
+Train observations,171
+Val observations,57
+Test observations,76
+Total features,128

@@ -1,0 +1,9 @@
+Metric,Value
+Total epochs,53
+Early stop epoch,43
+Patience,10
+Learning rate,0.001
+Batch size,64
+Hidden dimensions,256
+Optimizer,Adam
+Gradient clipping,1.0
