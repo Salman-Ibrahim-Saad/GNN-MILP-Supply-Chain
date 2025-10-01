@@ -43,21 +43,25 @@ scg_project/
 
 
 **Usage**
+
 Open the Jupyter notebook: jupyter notebook GNN_MILP.ipynb
 Run experiments for: Forecasting with GNNs
 MILP optimization on supply chain data
 GNN + MILP integration workflow
 
 **Results & Visualizations**
+
   Forecasting performance (accuracy metrics on demand predictions)
   Optimization results (production, inventory, distribution flows)
   Graph visualizations of supply chain networks
   Resilience analysis under disruptions
 
 **License**
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-Author
+**Author**
+
 Salman Ibrahim Saad
 Lecturer, Industrial & Production Engineering, MIST (Dhaka, Bangladesh)
 Research: Operations Research, Machine Learning, Supply Chain Optimization
