@@ -26,7 +26,6 @@ scg_project/
 - Apply **Graph Neural Networks (GNNs)** for demand forecasting and graph representation of the supply chain.  
 - Develop **MILP models** for production, distribution, and routing optimization.  
 - Integrate GNN forecasts into MILP formulations for **data-driven decision-making**.  
-- Demonstrate use cases such as **EV Routing (EVRP, SDEVRP)** and **Disaster-Resilient Network Design (INDP)**.
 
 ---
 
